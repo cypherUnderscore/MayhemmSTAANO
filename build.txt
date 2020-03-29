@@ -1,0 +1,4 @@
+displayName = [c/ee30ff:Stardust Anomalies]
+author = Mayhemm
+version = 0.20
+homepage = https://discord.gg/5VZPRHA

@@ -1,0 +1,24 @@
+Stardust Anomalies is a mod focused on adding unique content to and expanding the base game. So, a content mod.
+
+The current main focus of the mod is on a large subclass of guns, known as the Sixshooters. 
+
+The main mechanic of the sixshooters are misfires and supershots. These can be augmented by specific accessories added by the mod.
+
+Version v0.2 - 
+	Additions -
+		Added The Prototype (miniboss)
+		Material set for the prototype
+		Mage accessories, more may be coming
+		Autocannon and Bulldozer
+		Peril material set
+		Stygian Ice material set (armor soon)
+		Magma Crystal material set (armor soon)
+
+	Changes - 
+		Nerfed Bringer of Chaos until i get some post moonlord progression going
+		Changed Penumbral Shot to be not burst and not broken with speed modifiers
+		
+	Bug/issue fixes - 
+		Microwave no longer needs a mythril anvil
+
+Version v0.1 - Added a small amount of content, and one currently unfinished item set.

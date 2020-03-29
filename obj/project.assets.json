@@ -1,0 +1,51 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.5": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.5": []
+  },
+  "packageFolders": {
+    "C:\\Users\\Alistair\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Alistair\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\MayhemmSTAANO\\MayhemmSTAANO.csproj",
+      "projectName": "MayhemmSTAANO",
+      "projectPath": "C:\\Users\\Alistair\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\MayhemmSTAANO\\MayhemmSTAANO.csproj",
+      "packagesPath": "C:\\Users\\Alistair\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Alistair\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\MayhemmSTAANO\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Alistair\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net45"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.emzi0767.com/api/v3/index.json": {}
+      },
+      "frameworks": {
+        "net45": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net45": {
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
